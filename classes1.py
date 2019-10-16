@@ -4,4 +4,6 @@ class Country():
         self.food = food
         self.transportation = transportation
         self.fun = fun
-        c
+
+poland = Country(100, 10, 10, 10)
+print(poland.fun)
