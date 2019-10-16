@@ -4,3 +4,4 @@ class Country():
         self.food = food
         self.transportation = transportation
         self.fun = fun
+        c
